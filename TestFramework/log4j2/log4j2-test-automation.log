@@ -1,0 +1,27 @@
+[INFO ] 2022-04-03 10:35:11.501 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-03 10:35:13.809 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-03 10:35:13.810 [main] Log - loginTest test is skipped.
+[INFO ] 2022-04-03 10:35:13.811 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-03 10:35:13.812 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-03 12:00:43.640 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-03 12:00:45.368 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-03 12:00:45.369 [main] Log - loginTest test is skipped.
+[INFO ] 2022-04-03 12:00:45.370 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-03 12:00:45.372 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-03 12:03:09.172 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-03 12:03:10.824 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-03 12:03:10.825 [main] Log - loginTest test is skipped.
+[INFO ] 2022-04-03 12:03:10.826 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-03 12:03:10.827 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-03 12:14:05.298 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-03 12:14:12.411 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-03 12:14:12.695 [main] Log - loginTest test is succeed.
+[INFO ] 2022-04-03 12:14:20.761 [main] Log - validateHomePageTitleTest test is starting.
+[INFO ] 2022-04-03 12:14:20.772 [main] Log - validateHomePageTitleTest test is succeed.
+[INFO ] 2022-04-03 12:14:27.697 [main] Log - cartsPageLanding test is starting.
+[INFO ] 2022-04-03 12:14:27.783 [main] Log - cartsPageLanding test is succeed.
+[INFO ] 2022-04-03 12:14:35.644 [main] Log - verifycartItemslist test is starting.
+[INFO ] 2022-04-03 12:15:26.660 [main] Log - verifycartItemslist test is skipped.
+[INFO ] 2022-04-03 12:15:31.732 [main] Log - verifycartItemslist test is starting.
+[INFO ] 2022-04-03 12:16:22.725 [main] Log - verifycartItemslist test is failed.
+[INFO ] 2022-04-03 12:16:22.973 [main] Log - I am in onFinish method Test Flipkart page

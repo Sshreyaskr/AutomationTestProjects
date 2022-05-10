@@ -1,0 +1,52 @@
+[INFO ] 2022-04-02 10:55:33.869 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 10:55:45.067 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 10:55:45.706 [main] Log - loginTest test is succeed.
+[INFO ] 2022-04-02 10:55:45.706 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 10:55:45.993 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-02 11:02:57.521 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:03:19.659 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:03:19.659 [main] Log - loginTest test is skipped.
+[INFO ] 2022-04-02 11:03:19.815 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 11:03:20.035 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-02 11:09:13.473 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:09:26.259 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:09:26.733 [main] Log - loginTest test is succeed.
+[INFO ] 2022-04-02 11:09:26.733 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 11:09:27.045 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-02 11:25:21.066 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:25:43.199 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:25:43.199 [main] Log - loginTest test is skipped.
+[INFO ] 2022-04-02 11:25:43.207 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 11:25:43.407 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-02 11:28:44.111 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:28:49.498 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:28:49.788 [main] Log - loginTest test is succeed.
+[INFO ] 2022-04-02 11:28:49.789 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 11:28:50.114 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-02 11:29:21.658 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:29:27.830 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:29:51.014 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:29:56.769 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:29:57.072 [main] Log - loginTest test is succeed.
+[INFO ] 2022-04-02 11:29:57.073 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 11:29:57.359 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-02 11:46:29.173 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:46:51.464 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:46:51.464 [main] Log - loginTest test is skipped.
+[INFO ] 2022-04-02 11:46:51.472 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 11:46:51.672 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-02 11:47:12.690 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:47:24.580 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:47:24.885 [main] Log - loginTest test is succeed.
+[INFO ] 2022-04-02 11:47:24.885 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 11:47:25.195 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-02 11:52:00.333 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:52:22.490 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:52:22.490 [main] Log - loginTest test is skipped.
+[INFO ] 2022-04-02 11:52:22.490 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 11:52:22.717 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-04-02 11:52:38.276 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-04-02 11:53:00.387 [main] Log - loginTest test is starting.
+[INFO ] 2022-04-02 11:53:00.387 [main] Log - loginTest test is skipped.
+[INFO ] 2022-04-02 11:53:00.387 [main] Log - loginTest test is failed.
+[INFO ] 2022-04-02 11:53:00.561 [main] Log - I am in onFinish method Test Flipkart page

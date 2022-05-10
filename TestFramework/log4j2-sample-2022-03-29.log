@@ -1,0 +1,42 @@
+[INFO ] 2022-03-29 16:28:43.120 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-03-29 16:29:14.045 [main] Log - loginTest test is starting.
+[INFO ] 2022-03-29 16:29:14.045 [main] Log - loginTest test is skipped.
+[INFO ] 2022-03-29 16:29:14.185 [main] Log - loginTest test is failed.
+[INFO ] 2022-03-29 16:29:15.388 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-03-29 16:29:26.905 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-03-29 16:29:31.821 [main] Log - loginTest test is starting.
+[INFO ] 2022-03-29 16:29:32.150 [main] Log - loginTest test is succeed.
+[INFO ] 2022-03-29 16:29:32.155 [main] Log - loginTest test is failed.
+[INFO ] 2022-03-29 16:29:32.419 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-03-29 16:32:18.632 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-03-29 16:32:24.062 [main] Log - loginTest test is starting.
+[INFO ] 2022-03-29 16:32:24.253 [main] Log - loginTest test is succeed.
+[INFO ] 2022-03-29 16:32:24.254 [main] Log - loginTest test is failed.
+[INFO ] 2022-03-29 16:32:24.503 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-03-29 16:47:32.528 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-03-29 16:47:39.903 [main] Log - loginTest test is starting.
+[INFO ] 2022-03-29 16:47:40.089 [main] Log - loginTest test is succeed.
+[INFO ] 2022-03-29 16:47:40.090 [main] Log - loginTest test is failed.
+[INFO ] 2022-03-29 16:47:40.317 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-03-29 16:55:18.017 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-03-29 16:55:22.590 [main] Log - loginTest test is starting.
+[INFO ] 2022-03-29 16:55:22.893 [main] Log - loginTest test is succeed.
+[INFO ] 2022-03-29 16:55:22.894 [main] Log - loginTest test is failed.
+[INFO ] 2022-03-29 16:55:23.093 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-03-29 17:00:00.803 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-03-29 17:00:06.481 [main] Log - loginTest test is starting.
+[INFO ] 2022-03-29 17:00:06.857 [main] Log - loginTest test is succeed.
+[INFO ] 2022-03-29 17:00:06.858 [main] Log - loginTest test is failed.
+[INFO ] 2022-03-29 17:00:07.124 [main] Log - I am in onFinish method Test Flipkart page
+[INFO ] 2022-03-29 17:06:06.222 [main] Log - I am in onStart method Test Flipkart page
+[INFO ] 2022-03-29 17:06:15.249 [main] Log - loginTest test is starting.
+[INFO ] 2022-03-29 17:06:15.632 [main] Log - loginTest test is succeed.
+[INFO ] 2022-03-29 17:06:15.633 [main] Log - loginTest test is failed.
+[INFO ] 2022-03-29 17:06:33.490 [main] Log - validateHomePageTitleTest test is starting.
+[INFO ] 2022-03-29 17:06:33.632 [main] Log - validateHomePageTitleTest test is failed.
+[INFO ] 2022-03-29 17:06:37.622 [main] Log - cartsPageLanding test is starting.
+[INFO ] 2022-03-29 17:06:37.687 [main] Log - cartsPageLanding test is succeed.
+[INFO ] 2022-03-29 17:06:37.688 [main] Log - cartsPageLanding test is failed.
+[INFO ] 2022-03-29 17:06:41.988 [main] Log - verifycartItemslist test is starting.
+[INFO ] 2022-03-29 17:07:32.997 [main] Log - verifycartItemslist test is failed.
+[INFO ] 2022-03-29 17:07:33.143 [main] Log - I am in onFinish method Test Flipkart page
